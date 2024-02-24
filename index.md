@@ -10,18 +10,19 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# vInterface
+# Data Science Portfolio 
 
 vInterface is a Windows based application which communicates with the pathology machines.
 
-## vTrial
+## Machine Learning
 
 > vTrial
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### vLIMS
-```js
+### Fraud Detection
+
+Fraud detection is a set of processes and analyses that allow businesses to identify and prevent unauthorised financial activity. This may include fraudulent credit card transactions, identity theft, cyber hacking, insurance scams and more.
 // Javascript code with syntax highlighting.
 var fun = function lang(l) {
   dateformat.i18n = require('./lang/' + l)
